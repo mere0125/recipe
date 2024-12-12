@@ -1,0 +1,15 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "A simple Recipe API to retrieve cooking recipes based on inputs like dish name, dietary preferences, or cooking time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["recipe", "API", "express", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
