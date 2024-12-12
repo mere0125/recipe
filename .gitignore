@@ -1,0 +1,8 @@
+# Node.js modules
+node_modules/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
